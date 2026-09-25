@@ -1,0 +1,14 @@
+# secrets
+.env
+*.env
+*secret*
+*apikey*
+*api_key*
+# python
+__pycache__/
+*.pyc
+build/
+dist/
+*.spec
+# office temp
+~$*
